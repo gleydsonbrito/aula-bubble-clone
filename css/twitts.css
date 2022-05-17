@@ -1,0 +1,24 @@
+.twitt div {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 20px;
+    width: 300px;
+    margin-right: 50px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    background-color: rgba(241, 243, 246, 0.5)
+}
+
+.twitt div:hover {
+    background-color: aliceblue;
+}
+
+.twitt div img {
+    width: 30px;
+    height: 30px;
+}
+
+.twitt div p {
+    margin-top: 10px;
+}
+
